@@ -1,0 +1,35 @@
+#main{
+    display: flex;
+    gap: 10px;
+    margin: auto;
+    padding: 10px;
+    width: 40%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#subdiv1{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    height: 200px;
+    padding: 5px;
+    padding: auto;
+    border: 1px solid black;
+}
+#subdiv1>input{
+    width: 220px;
+    height: 30px;
+    margin: 10px;
+    text-align: center;
+}
+
+#subdiv2{
+    width: 50%;
+    text-align: left;
+    height: 200px;
+    padding: 5px;
+    border: 1px solid black;
+
+}
+button{
+    margin: 5px;
+}
